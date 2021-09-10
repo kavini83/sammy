@@ -1,0 +1,50 @@
+/*   nav area */
+body{
+    font-family: 'Sacramento', cursive;
+    position: relative;
+    padding-top:20px;
+    text-align: center;
+}
+nav{
+    font-size:2em;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.897);
+    display: inline;
+    
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.8em;
+}
+
+hr{
+    border: 6px dotted grey;
+    width: 10%;
+    border-bottom: none;
+    margin:auto;
+}
+
+img{
+    width: 29%;
+    margin:1.6666%;
+}
+
+footer{
+    background-color: dimgray;
+    padding: 50px;
+}
+
+.bottom-link{
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    color:#383838;
+    font-size:1em;
+    font-weight: 900;
+    transition: 2s;
+}
+
+.bottom-link:hover{
+    color:white;
+
+}
